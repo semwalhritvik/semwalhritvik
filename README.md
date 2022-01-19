@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on data engineering projects <br>
+🌱 I’m currently learning TensorFlow 2.0<br>
+📫 To reach me: hritviksemwal@gmail.com
