@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on data science projects <br>
 🌱 I’m currently learning TensorFlow 2.0<br>
-📫 To reach me: hritviksemwal@gmail.com
+📫 To reach me: semwalhritvik@gmail.com
