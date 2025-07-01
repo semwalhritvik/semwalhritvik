@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on data science projects <br>
-🌱 I’m currently learning TensorFlow 2.0<br>
+🌱 I’m currently learning MLOps<br>
+⚡ Fun fact: Over 90% of the world’s data was created in just the last two years
+   Welcome to the age of information overload. Or as we data scientist call it: job security.
 📫 To reach me: semwalhritvik@gmail.com
+
