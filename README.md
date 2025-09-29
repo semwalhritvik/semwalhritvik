@@ -55,4 +55,4 @@
 
 ---
 
-📄 [Resume](./HritvikSemwal_Resume(DS).pdf) | 🌐 [LinkedIn](https://www.linkedin.com/in/semwalhritvik) | 🖥️ Portfolio (coming soon)  
+🌐 [LinkedIn](https://www.linkedin.com/in/semwalhritvik) | 🖥️ Portfolio (coming soon)  
