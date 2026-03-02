@@ -55,4 +55,4 @@
 
 ---
 
-🌐 [LinkedIn](https://www.linkedin.com/in/semwalhritvik) | 🖥️ Portfolio (coming soon)  
+🌐 [LinkedIn](https://www.linkedin.com/in/semwalhritvik) | 🖥️ [Portfolio](https://www.semwalhritvik.github.io)
