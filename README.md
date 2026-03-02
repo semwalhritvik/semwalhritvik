@@ -8,7 +8,7 @@
 
 ---
 
-🔭 **Currently working on**: AI content watermarking & building detectors that don’t cry wolf after a simple paraphrase  
+🔭 **Currently working on**: Improving observability of MLOPs pipelines
 🌱 **Learning**: LLMs, Deep Learning, and the art of making machines explain themselves  
 ⚡ **Fun fact**: 90% of the world’s data was created in the last two years… the other 10% is trapped in `do_not_touch.xlsx`  
 📫 **Reach me at**: [semwal.h@northeastern.edu](mailto:semwal.h@northeastern.edu)  
